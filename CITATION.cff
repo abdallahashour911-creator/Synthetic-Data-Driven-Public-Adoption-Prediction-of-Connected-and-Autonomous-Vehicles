@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset in your research, please cite it as below."
+authors:
+  - family-names: Ashour
+    given-names: Abdallah
+    email: abd8251346@ju.edu.jo
+    affiliation: "Department of Artificial Intelligence and Data Science, University of Jordan, Amman, Jordan"
+title: "Synthetic-Data-Driven Public Adoption Prediction of Connected and Autonomous Vehicles: A Hybrid Explainable Deep Learning Framework"
+version: 1.0.0
+doi: 10.5281/zenodo.xxxxxxx
+date-released: 2026-06-05
+url: "https://github.com/abdallah-ashour/CAV-Adoption-Prediction"
